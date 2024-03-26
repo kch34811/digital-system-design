@@ -1,6 +1,6 @@
 ![POSTECH](https://img.shields.io/badge/POSTECH-%239a034c)
 ![CSED273](https://img.shields.io/badge/CSED211-gray)
-<img src="[https://img.shields.io/badge/C-A8B9CC](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png)?style=flat-square&logo=C&logoColor=blue"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png?style=flat-square&logo=C&logoColor=blue"/>
 
 # Degital System Design
 
@@ -10,17 +10,17 @@ Digital System Design introduces the core principles of digital technology, star
 
 # Lab
 ### Lab 1 
-[논리회로 기초]([https://github.com/kch34811/computer-sw-system/tree/main/Lab%201](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab1))
+[논리회로 기초](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab1))
 ### Lab 2
-[불 대수식의 단순화]([https://github.com/kch34811/computer-sw-system/tree/main/Lab%202](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab2))
+[불 대수식의 단순화](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab2))
 ### Lab 3
-[디코더와 멀티플렉서]([https://github.com/kch34811/computer-sw-system/tree/main/Lab%203](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab3))
+[디코더와 멀티플렉서](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab3))
 ### Lab 4
-[이진수 연산]([https://github.com/kch34811/computer-sw-system/tree/main/Lab%204](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab4))
+[이진수 연산](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab4))
 ### Lab 5
-[ALU와 JK 플립플롭]([https://github.com/kch34811/computer-sw-system/tree/main/Lab%205](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab5))
+[ALU와 JK 플립플롭](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab5))
 ### Lab 6
-[순차회로-계수기]([https://github.com/kch34811/computer-sw-system/tree/main/Lab%206](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab6)https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab6)
+[순차회로-계수기](https://github.com/kch34811/digital-system-design/tree/main/Lab/Lab6)
 
 </br>
 
