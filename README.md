@@ -1,6 +1,6 @@
 ![POSTECH](https://img.shields.io/badge/POSTECH-%239a034c)
 ![CSED273](https://img.shields.io/badge/CSED273-gray)
-<img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Verilog-F7DF1E?style=flat-square"/>
 
 # Degital System Design
 
